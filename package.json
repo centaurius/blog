@@ -1,12 +1,12 @@
 {
-    "name": "clean-blog",
-    "title": "Clean Blog",
-    "version": "1.0.0",
-    "homepage": "http://startbootstrap.com",
-    "author": "Start Bootstrap",
+    "name": "Centaurius Blog",
+    "title": "Centaurius Blog",
+    "version": "1.0.1",
+    "homepage": "centaurius.github.io",
+    "author": "Centaurius",
     "license": {
         "type": "Apache 2.0",
-        "url": "https://github.com/IronSummitMedia/startbootstrap/blob/gh-pages/LICENSE"
+        "url": "https://github.com/centaurius/centaurius.github.io/gh-pages/LICENSE"
     },
     "devDependencies": {
         "grunt": "~0.4.5",
@@ -17,6 +17,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/IronSummitMedia/startbootstrap-clean-blog-jekyll.git"
+        "url": "https://github.com/centaurius/centaurius.github.io.git"
     }
 }
