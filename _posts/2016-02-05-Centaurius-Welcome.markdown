@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      "Dinosaurs are extinct today"
-subtitle:   "because they lacked opposable thumbs and the brainpower to build a space program."
-date:       2014-06-10 12:00:00
-author:     "Start Bootstrap"
+title:      "Centaurius Blog"
+subtitle:   "Let's Develop, Create Music and Explore Great Things Together!"
+date:       2016-02-05 19:41:39
+author:     "Centaurius"
 header-img: "img/post-bg-01.jpg"
 ---
 
