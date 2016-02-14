@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "HaveUReddit?  A chrome extension made at HackBU 2016"
-subtitle:   "Discover what's trending on reddit with out wordcloud and data analytics chrome extension."
+subtitle:   "Discover what's trending on reddit with our wordcloud and data analytics chrome extension."
 date:       2016-02-13 20:17:35
 author:     "Hamilton A. White"
 header-img: "img/banner.png"
