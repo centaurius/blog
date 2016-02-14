@@ -27,7 +27,7 @@ header-img: "img/banner.png"
   <li>Chrome Developer Framework and Extensions Manager</li>
 </ul>
 
-![The results of our algorithm1](github.com/centaurius/centaurius.github.io/img/HaveUReddit_results.png)
+![The results of our algorithm1]("/img/HaveUReddit_results.png")
 
 <h5 class="highlight_text">...All in 24 hours!</h5>
 
