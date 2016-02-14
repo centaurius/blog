@@ -1,4 +1,3 @@
-
 ---
 layout:     post
 title:      "HaveUReddit?  A chrome extension made at HackBU 2016"
