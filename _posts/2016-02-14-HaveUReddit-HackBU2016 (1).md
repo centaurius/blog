@@ -4,7 +4,7 @@ title:      "HaveUReddit?  A chrome extension made at HackBU 2016"
 subtitle:   "Discover what's trending on reddit with out wordcloud and data analytics chrome extension."
 date:       2016-02-13 20:17:35
 author:     "Hamilton A. White"
-header-img: "img/HaveUReddit_code.png"
+header-img: "img/banner.png"
 ---
 
 <h1 class="section-heading">HaveUReddit: Developed in 24 hrs at HackBU 2016</h1>
