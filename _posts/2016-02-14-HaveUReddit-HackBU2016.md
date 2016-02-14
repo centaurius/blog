@@ -33,10 +33,10 @@ header-img: "img/HaveUReddit.png"
 
 <h3 class="highlight_text">Why is this project unique?</h3>
 
- 1. It pulls data on the comments from a user-defined subreddit.
- 2. It parses through all the text, eliminates the most common phrases or words, and then plots the results as a word cloud based on frequency.
- 3. Unlike other word cloud generators, our algorithm is open source, written in python, complied in Pyjs, and runs within the browser!
- 4. The algorithm can be used on any text file
+* It pulls data on the comments from a user-defined subreddit.
+* It parses through all the text, eliminates the most common phrases or words, and then plots the results as a word cloud based on frequency.
+* Unlike other word cloud generators, our algorithm is open source, written in python, complied in Pyjs, and runs within the browser!
+* The algorithm can be used on any text file
 	 * We've tested this algorithm on Project Gutenberg books, and it had a low time complexity
 	 * We made the algorithm from scratch.
  
@@ -45,6 +45,6 @@ header-img: "img/HaveUReddit.png"
 <p>Using python to create algorithms can be fun and a worthwhile endeavor, but cross-compiling to javascript to run the python code in the browser is difficult</p>
 
 <h3 class="highlight_text">Next Steps</h3>
-1. Optimize code better
-2. Create a .CRX file of our chrome extension
-3. Test, retest, and test again
+* Optimize code better
+* Create a .CRX file of our chrome extension
+* Test, retest, and test again
