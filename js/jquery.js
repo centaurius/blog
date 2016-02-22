@@ -9203,3 +9203,12 @@ if ( typeof noGlobal === strundefined ) {
 return jQuery;
 
 }));
+$(document).ready(function() {
+    // Run btoa('your@email.com') to get yours!
+    var base64_email = 'ZGV2LmNlbnRhdXJpdXNAZ21haWwuY29t';
+    var base_url = '//formspree.io/';
+    var action = base_url + atob(base64_email);
+    $('#contact-form').attr('action', action);
+    
+return jQuery;  
+});
